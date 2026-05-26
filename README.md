@@ -256,3 +256,55 @@ git push -u origin main
 3. **fork() + pipe()**: стандартный механизм IPC в Linux. Дочерний процесс вычисляет результат и передаёт его родителю через анонимный канал. Важно закрывать неиспользуемые концы канала во избежание дедлока.
 
 4. **Makefile**: автоматизирует сборку, позволяет пересобирать только изменившиеся модули.
+
+# Лабораторная работа №2 по ОС
+
+## Выбираем дистрибутив Debian, подбираем нужные параметры
+
+!<img width="736" height="320" alt="image" src="https://github.com/user-attachments/assets/39589ba4-0a28-470b-bc35-62894db5a51f" />
+
+
+## Выделяем память
+
+!<img width="756" height="290" alt="image" src="https://github.com/user-attachments/assets/67dd1ea8-8407-4b12-95d3-4819c8961bba" />
+
+![image](https://github.com/user-attachments/assets/0456a625-433d-489c-9265-0d408ed84617)
+
+![image](https://github.com/user-attachments/assets/f9a42f5f-a222-40a2-b2a6-4886e166f4b8)
+
+![image](https://github.com/user-attachments/assets/899cee71-2317-4d97-8a0a-b431decf03ef)
+
+![image](https://github.com/user-attachments/assets/b90e9c28-1abe-4e77-af3d-dd449f85330b)
+
+![image](https://github.com/user-attachments/assets/04ad72bd-6ae7-4dd1-bcde-dd82447a8ea7)
+
+![image](https://github.com/user-attachments/assets/4f63ac57-a188-4af7-aa89-9cefa713c740)
+
+![image](https://github.com/user-attachments/assets/c4f7677c-65e4-47c8-add1-be59abc36835)
+
+![image](https://github.com/user-attachments/assets/1311e60d-22fa-4948-a2ec-d3b348094bd6)
+
+![image](https://github.com/user-attachments/assets/5ef61f26-3b3b-4bcd-b305-e61a3cc20582)
+
+![image](https://github.com/user-attachments/assets/1eec45b2-d50b-48de-af74-ea3878df6307)
+
+## Проверка ping
+
+![image](https://github.com/user-attachments/assets/8308f1f3-6e51-4e94-879a-d174d925f972)
+
+![image](https://github.com/user-attachments/assets/303039ec-1702-4728-b3ad-72cba79c1379)
+
+![image](https://github.com/user-attachments/assets/586b261b-4dd8-4890-9484-4d710afdff0c)
+
+## Делаем переброс портов
+
+![image](https://github.com/user-attachments/assets/afe53648-2192-4db0-b905-7993fef9dace)
+
+![image](https://github.com/user-attachments/assets/f44f5a88-610d-4c11-9f61-d1a9a52f02f8)
+
+![image](https://github.com/user-attachments/assets/475d81d8-e694-45da-b297-f46081d71c2d)
+
+---
+
+*Какую-то часть скриншотов забыл сделать, извините* 😞
+
