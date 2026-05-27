@@ -276,7 +276,6 @@ git push -u origin main
 
 ![image](https://github.com/user-attachments/assets/b90e9c28-1abe-4e77-af3d-dd449f85330b)
 
-![image](https://github.com/user-attachments/assets/04ad72bd-6ae7-4dd1-bcde-dd82447a8ea7)
 
 ![image](https://github.com/user-attachments/assets/4f63ac57-a188-4af7-aa89-9cefa713c740)
 
@@ -284,25 +283,7 @@ git push -u origin main
 
 ![image](https://github.com/user-attachments/assets/1311e60d-22fa-4948-a2ec-d3b348094bd6)
 
-![image](https://github.com/user-attachments/assets/5ef61f26-3b3b-4bcd-b305-e61a3cc20582)
-
 ![image](https://github.com/user-attachments/assets/1eec45b2-d50b-48de-af74-ea3878df6307)
-
-## Проверка ping
-
-![image](https://github.com/user-attachments/assets/8308f1f3-6e51-4e94-879a-d174d925f972)
-
-![image](https://github.com/user-attachments/assets/303039ec-1702-4728-b3ad-72cba79c1379)
-
-![image](https://github.com/user-attachments/assets/586b261b-4dd8-4890-9484-4d710afdff0c)
-
-## Делаем переброс портов
-
-![image](https://github.com/user-attachments/assets/afe53648-2192-4db0-b905-7993fef9dace)
-
-![image](https://github.com/user-attachments/assets/f44f5a88-610d-4c11-9f61-d1a9a52f02f8)
-
-![image](https://github.com/user-attachments/assets/475d81d8-e694-45da-b297-f46081d71c2d)
 
 ---
 
